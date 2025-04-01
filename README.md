@@ -1,1 +1,1 @@
-Em desenvolvimento por Irivam e Mateus, site de notificador de provas e trabalhos.
+Em desenvolvimento, site de notificador de provas e trabalhos.
